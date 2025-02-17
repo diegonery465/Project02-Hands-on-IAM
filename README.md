@@ -12,7 +12,7 @@
 👨🏻‍💻 Para visualizar o artigo do passo a passo da configuração realizada, clique no Link abaixo:
 
 ```
-🌐 [Clique aqui para visualizar como o site ficaria hospedado](https://medium.com/@diegonery465/migra%C3%A7%C3%A3o-de-usu%C3%A1rios-de-forma-automatizada-e-gerenciamento-dos-recursos-do-iam-identity-and-access-d98cccddfd81)<br>
+🌐 [Clique aqui para visualizar como ficou a Migração](https://medium.com/@diegonery465/migra%C3%A7%C3%A3o-de-usu%C3%A1rios-de-forma-automatizada-e-gerenciamento-dos-recursos-do-iam-identity-and-access-d98cccddfd81)<br>
 
 <img src="https://github.com/diegonery465/AWS-Projects/blob/main/SiteHospedado.png"/>
 
