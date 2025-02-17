@@ -6,7 +6,6 @@
 ![Git Bash](https://img.shields.io/badge/Git%20Bash-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br>
-<br>
 
 ```
 👨🏻‍💻 Para visualizar o artigo do passo a passo da configuração realizada, clique no Link abaixo:
