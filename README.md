@@ -1,6 +1,7 @@
 ## Migração de usuários de forma automatizada e gerenciamento dos recursos do IAM da AWS
 
 ![AWS IAM](https://img.shields.io/badge/AWS%20IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS CLI](https://img.shields.io/badge/AWS%20CLI-4A90E2?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/diegonery465)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 ![CloudFront](https://img.shields.io/badge/CloudFront-007BFF?style=for-the-badge&logo=cloudfront&logoColor=white)
